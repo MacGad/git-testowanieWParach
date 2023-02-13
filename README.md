@@ -1,0 +1,2 @@
+# git-testowanieWParach
+testowanie
